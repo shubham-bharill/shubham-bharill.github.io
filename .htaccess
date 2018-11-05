@@ -1,5 +1,5 @@
-ErrorDocument 400 http://shubham-bharill.github.io/error.html
-ErrorDocument 401 http://shubham-bharill.github.io/error.html
-ErrorDocument 403 http://shubham-bharill.github.io/error.html
-ErrorDocument 404 http://shubham-bharill.github.io/error.html
-ErrorDocument 503 http://shubham-bharill.github.io/error.html
+ErrorDocument 400 https://shubham-bharill.github.io/error.html
+ErrorDocument 401 https://shubham-bharill.github.io/error.html
+ErrorDocument 403 https://shubham-bharill.github.io/error.html
+ErrorDocument 404 https://shubham-bharill.github.io/error.html
+ErrorDocument 503 https://shubham-bharill.github.io/error.html
